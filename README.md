@@ -1,6 +1,6 @@
 # The-Forward-Forward-Algorithm
 
-My take at the Forward-Forward-Algorithm introduced by  
+My take at The-Forward-Forward-Algorithm(FF) introduced by  
 Geoffrey Hinton
 Google Brain
 geoffhinton@google.com
